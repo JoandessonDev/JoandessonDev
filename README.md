@@ -43,46 +43,35 @@
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics Dashboard </b>
-
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[JoandessonDev]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=9745f5&icon_color=bb86fc&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=JoandessonDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=9745f5&icon_color=bb86fc&text_color=FFFFFF" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[JoandessonDev]&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=9745f5&fire=bb86fc&currStreakLabel=9745f5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoandessonDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=9745f5&fire=bb86fc&currStreakLabel=9745f5" />
 
 </td>
 </tr>
 </table>
 </div>
 
-<div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-languages/?username=[JoandessonDev]&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=FFFFFF" />
-</div>
-
 ---
 
-##  <b>Achievement Showcase</b>
+## <b>Development Activity Graph</b>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[JoandessonDev]&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoandessonDev&custom_title=Development%20Contribution%20Graph&bg_color=0D1117&color=9745f5&line=bb86fc&point=FFFFFF&area_color=9745f5&title_color=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
----
 
-##  <b>Development Activity Graph</b>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[JoandessonDev]&custom_title=Development%20Contribution%20Graph&bg_color=0D1117&color=9745f5&line=bb86fc&point=FFFFFF&area_color=9745f5&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
 
 ---
-
+<!--
 ##  <b>Code Contribution Snake</b>
 <div align="center">
 <picture>
@@ -93,7 +82,7 @@
 </div>
 
 ---
-<!--## <b>Featured Projects</b>
+## <b>Featured Projects</b>
 
 <div align="center">
 <table>
@@ -201,14 +190,15 @@ graph TD
 
 ---
 
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=100&section=footer"/>
 </div>
 
 <div align="center">
-**💜 "Clean code always looks like it was written by someone who cares."**
+💜 "Clean code always looks like it was written by someone who cares.
 
-*~ A C# and React developer evolving into Full-Stack mastery ~*
+ A C# and React developer evolving into Full-Stack mastery
 
 
 </div>
