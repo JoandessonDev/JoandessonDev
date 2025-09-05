@@ -49,12 +49,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=9745f5&icon_color=bb86fc&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=[JoandessonDev]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=9745f5&icon_color=bb86fc&text_color=FFFFFF" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=9745f5&fire=bb86fc&currStreakLabel=9745f5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[JoandessonDev]&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=9745f5&fire=bb86fc&currStreakLabel=9745f5" />
 
 </td>
 </tr>
@@ -62,20 +62,20 @@
 </div>
 
 <div align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-languages/?username=[USERNAME]&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=FFFFFF" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-languages/?username=[JoandessonDev]&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=FFFFFF" />
 </div>
 
 ---
 
-## 🏆 <b>Achievement Showcase</b>
+##  <b>Achievement Showcase</b>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=[JoandessonDev]&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
 </div>
 
 ---
 
-## 📊 <b>Development Activity Graph</b>
+##  <b>Development Activity Graph</b>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&custom_title=Development%20Contribution%20Graph&bg_color=0D1117&color=9745f5&line=bb86fc&point=FFFFFF&area_color=9745f5&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
@@ -83,35 +83,34 @@
 
 ---
 
-## 🐍 <b>Code Contribution Snake</b>
+##  <b>Code Contribution Snake</b>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[JoandessonDev]/[JoandessonDev]/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[JoandessonDev]/[JoandessonDev]/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[JoandessonDev]/[JoandessonDev]/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
 ---
-
-## 💼 <b>Featured Projects</b>
+<!--## <b>Featured Projects</b>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 Laravel E-Commerce</h3>
+<h3 align="center">🚀 C# / .NET E-Commerce</h3>
 <div align="center">  
-<a href="https://github.com/[USERNAME]/[REPO_NAME]">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
+<a href="https://github.com/JoandessonDev/dotnet-ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoandessonDev&repo=dotnet-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
 </a>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">⚡ REST API Project</h3>
 <div align="center">
-<a href="https://github.com/[USERNAME]/[REPO_NAME]">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
+<a href="https://github.com/JoandessonDev/rest-api-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoandessonDev&repo=rest-api-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
 </a>
 </div>
 </td>
@@ -120,22 +119,23 @@
 <td width="50%">
 <h3 align="center">📱 React Learning Project</h3>
 <div align="center">
-<a href="https://github.com/[USERNAME]/[REPO_NAME]">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
+<a href="https://github.com/JoandessonDev/react-learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoandessonDev&repo=react-learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
 </a>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">🔗 PHP + C# Integration</h3>
 <div align="center">
-<a href="https://github.com/[USERNAME]/[REPO_NAME]">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
+<a href="https://github.com/JoandessonDev/php-csharp-integration">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoandessonDev&repo=php-csharp-integration&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5" />
 </a>
 </div>
 </td>
 </tr>
 </table>
 </div>
+-->
 
 ---
 
